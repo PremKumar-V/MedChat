@@ -1,2 +1,2 @@
 # MedChat
-ChatGPT Replica in medical domain 💉🩺
+ChatBot in medical domain 💉🩺
